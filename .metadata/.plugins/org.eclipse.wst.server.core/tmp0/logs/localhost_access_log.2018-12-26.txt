@@ -1,0 +1,16 @@
+127.0.0.1 - - [26/Dec/2018:19:22:13 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:22:18 +0900] "GET /WebProj/ HTTP/1.1" 200 802
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:22:21 +0900] "POST /WebProj/HelloStrutsAction.action;jsessionid=43F42B3EC8FE96BB1FAC59D17B72EFB4 HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:22:24 +0900] "POST /WebProj/WelcomeAction.action;jsessionid=43F42B3EC8FE96BB1FAC59D17B72EFB4 HTTP/1.1" 200 852
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:22:34 +0900] "POST /WebProj/LoginAction.action HTTP/1.1" 200 158
+127.0.0.1 - - [26/Dec/2018:20:15:49 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:15:52 +0900] "GET /WebProj/ HTTP/1.1" 200 1007
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:15:56 +0900] "POST /WebProj/InquiryAction.action HTTP/1.1" 200 962
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:16:04 +0900] "POST /WebProj/InquiryCompleteAction.action HTTP/1.1" 200 358
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:16:23 +0900] "POST /WebProj/WelcomeAction.action HTTP/1.1" 200 852
+127.0.0.1 - - [26/Dec/2018:20:38:31 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:38:35 +0900] "GET /WebProj/ HTTP/1.1" 200 2145
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:38:47 +0900] "GET /WebProj/TestAction.action?username=sfasf&password=safasf HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:38:52 +0900] "GET /WebProj/TestAction.action?username=sfasf&password=safasf HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:38:57 +0900] "POST /WebProj/TestAction.action HTTP/1.1" 200 143
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:39:01 +0900] "POST /WebProj/TestAction.action HTTP/1.1" 200 143
