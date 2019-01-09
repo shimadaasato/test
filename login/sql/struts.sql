@@ -1,6 +1,6 @@
 set names utf8;
 set foreign_key_checks=0;
-drop database if exists logindb shimada;
+drop database if exists logindb_shimada;
 create database logindb_shimada;
 use logindb_shimada;
 
