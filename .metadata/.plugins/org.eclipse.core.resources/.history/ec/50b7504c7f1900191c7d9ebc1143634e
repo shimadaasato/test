@@ -1,0 +1,9 @@
+package com.internousdev.webproj3.util;
+
+public class DBConnector {
+		
+	/**
+	 * JDBCドライバー名
+	 */
+private static String driverName="com.mysql.jdbc.Driver";
+}
