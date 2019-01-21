@@ -1,0 +1,8 @@
+package com.internousdev.webproj3.dao;
+
+public class TestDAO {
+	
+	public int insert(String username,String password){
+		
+	}
+}
