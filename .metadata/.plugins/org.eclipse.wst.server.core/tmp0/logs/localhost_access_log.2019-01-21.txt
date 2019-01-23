@@ -12,3 +12,9 @@
 0:0:0:0:0:0:0:1 - - [21/Jan/2019:20:37:30 +0900] "POST /WebProj3/InquiryAction.action HTTP/1.1" 200 999
 0:0:0:0:0:0:0:1 - - [21/Jan/2019:20:37:36 +0900] "POST /WebProj3/InquiryCompleteAction.action HTTP/1.1" 200 477
 0:0:0:0:0:0:0:1 - - [21/Jan/2019:20:37:56 +0900] "POST /WebProj3/InquiryAction.action HTTP/1.1" 200 999
+127.0.0.1 - - [21/Jan/2019:21:30:02 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [21/Jan/2019:21:30:06 +0900] "GET /WebProj3/ HTTP/1.1" 200 2125
+0:0:0:0:0:0:0:1 - - [21/Jan/2019:21:30:17 +0900] "GET /WebProj3/TestAction.action?username=klslkasf&password=aaaaaaaaaa HTTP/1.1" 200 248
+0:0:0:0:0:0:0:1 - - [21/Jan/2019:21:30:22 +0900] "POST /WebProj3/TestAction.action HTTP/1.1" 200 240
+0:0:0:0:0:0:0:1 - - [21/Jan/2019:21:30:25 +0900] "POST /WebProj3/InquiryAction.action HTTP/1.1" 200 999
+0:0:0:0:0:0:0:1 - - [21/Jan/2019:21:30:28 +0900] "POST /WebProj3/InquiryCompleteAction.action HTTP/1.1" 200 493
