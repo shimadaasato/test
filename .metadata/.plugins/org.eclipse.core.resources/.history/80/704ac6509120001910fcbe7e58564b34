@@ -1,0 +1,5 @@
+package com.internoud.dev.webproj4.action;
+
+public class HelloStrutsAction {
+
+}

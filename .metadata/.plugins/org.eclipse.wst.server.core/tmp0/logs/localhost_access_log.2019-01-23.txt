@@ -9,3 +9,6 @@
 0:0:0:0:0:0:0:1 - - [23/Jan/2019:19:08:38 +0900] "POST /WebProj3/InquiryCompleteAction.action HTTP/1.1" 200 478
 0:0:0:0:0:0:0:1 - - [23/Jan/2019:19:08:45 +0900] "GET /WebProj3/TestAction.action;jsessionid=0E3776B439D5755F4D777A5C75004A77?username=sd+sf&password=ds+sdfs++dsfs++ HTTP/1.1" 200 250
 0:0:0:0:0:0:0:1 - - [23/Jan/2019:19:08:50 +0900] "POST /WebProj3/TestAction.action;jsessionid=0E3776B439D5755F4D777A5C75004A77 HTTP/1.1" 200 238
+127.0.0.1 - - [23/Jan/2019:19:47:27 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:19:47:30 +0900] "GET /WebProj3/ HTTP/1.1" 200 2125
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:19:47:33 +0900] "POST /WebProj3/HelloStrutsAction.action HTTP/1.1" 200 224
