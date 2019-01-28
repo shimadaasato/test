@@ -35,19 +35,21 @@ table th{
 	
 	text-shadow:0 -1px 0 rgba(34,85,136,0.9);
 	
-	box-shadow: 0px 1px 1px rgba(255,255,255,0.3)inset;
+	box-shadow: 0px 1px 1px rgba(255,255,255,0.3) inset;
+	
 }
 
 table th:first-child{
 	
 	border-radius: 5px 0 0 0;
+
 }
 
 table th:last-child{
 	
 	border-radius:0 5px 0 0;
 	
-	border-right;1px solid #258;
+	border-right:1px solid #258;
 	
 	box-shadow: 2px 2px 1px rgba(0,0,0,0.1),0px 1px 1px rgba(255,255,255,0.3) inset;
 
@@ -59,7 +61,7 @@ table tr td{
 	
 	border-bottom: 1px solid #84b2e0;
 	
-	border-left; 1px solid #84b2e0;
+	border-left: 1px solid #84b2e0;
 	
 	text-align: center;
 	
@@ -67,7 +69,7 @@ table tr td{
 
 table tr td:last-child{
 	
-	border-right; 1px solid #84b2e0;
+	border-right: 1px solid #84b2e0;
 	
 	box-shadow: 2px 2px 1px rgba(0,0,0,0.1);
 	
@@ -107,6 +109,6 @@ table tr:hover{
 	
 	background: #bbd4ee;
 	
-	curcor:poiniter;
+	cursor:poiniter;
 	
 }
