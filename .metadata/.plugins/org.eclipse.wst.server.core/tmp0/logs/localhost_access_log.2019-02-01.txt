@@ -1,0 +1,8 @@
+127.0.0.1 - - [01/Feb/2019:20:25:40 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [01/Feb/2019:20:25:43 +0900] "GET /WebProj4/ HTTP/1.1" 200 1150
+0:0:0:0:0:0:0:1 - - [01/Feb/2019:20:25:46 +0900] "POST /WebProj4/InquiryAction.action;jsessionid=5C7DE0C47F65835986D690067310B6FB HTTP/1.1" 200 998
+0:0:0:0:0:0:0:1 - - [01/Feb/2019:20:25:53 +0900] "POST /WebProj4/InquiryCompleteAction.action HTTP/1.1" 200 9063
+127.0.0.1 - - [01/Feb/2019:20:42:51 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [01/Feb/2019:20:42:52 +0900] "GET /WebProj4/ HTTP/1.1" 200 1018
+0:0:0:0:0:0:0:1 - - [01/Feb/2019:20:42:55 +0900] "POST /WebProj4/InquiryAction.action HTTP/1.1" 200 998
+0:0:0:0:0:0:0:1 - - [01/Feb/2019:20:42:57 +0900] "POST /WebProj4/InquiryCompleteAction.action HTTP/1.1" 200 9063
