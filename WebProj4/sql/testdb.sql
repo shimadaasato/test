@@ -1,8 +1,8 @@
-drop database if exists testdb;
+drop database if exists testdb_shimada;
 
-create database testdb;
+create database testdb_shimada;
 
-use testdb;
+use testdb_shimada;
 
 
 create table users(

@@ -100,6 +100,16 @@ public class InquiryCompleteDAO {
 			
 		}
 		
+		try{
+			
+			con.close();
+			
+		}catch (SQLException e){
+			
+			e.printStackTrace();
+			
+		}
+		
 		return ret;
 		
 	}
