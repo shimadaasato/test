@@ -1,0 +1,4 @@
+127.0.0.1 - - [06/Feb/2019:18:59:45 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [06/Feb/2019:18:59:49 +0900] "GET /WebProj4/ HTTP/1.1" 200 2389
+0:0:0:0:0:0:0:1 - - [06/Feb/2019:19:01:52 +0900] "GET /WebProj4/TestAction.action;jsessionid=34EB28F00F4CC650231E8A29A840E58C?username=ghj&password=asd HTTP/1.1" 200 385
+0:0:0:0:0:0:0:1 - - [06/Feb/2019:19:01:57 +0900] "POST /WebProj4/TestAction.action;jsessionid=34EB28F00F4CC650231E8A29A840E58C HTTP/1.1" 200 384
