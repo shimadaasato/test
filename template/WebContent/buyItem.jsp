@@ -24,7 +24,7 @@ body{
 	padding: 0;
 	line-height: 1.6;
 	letter-spacing: 1px;
-	font-family: Verdana,helvetica,sans-serif;
+	font-family: Verdana,Helvetica,sans-serif;
 	font-size: 12px;
 	color: #333;
 	background: #fff;
@@ -34,6 +34,12 @@ body{
 table{
 	text-align: center;
 	margin: 0 auto;
+	
+}
+
+#top{
+	width: 780px;
+	margin: 30px auto;
 	border: 1px solid #333;
 	
 }
@@ -45,16 +51,10 @@ table{
 	
 }
 
-#main{
-	width: 100%;
-	height: 80px;
-	background-color: black;
-
-}
 
 #main{
 	width: 100%;
-	height; 500px;
+	height: 500px;
 	text-align: center;
 	
 }
