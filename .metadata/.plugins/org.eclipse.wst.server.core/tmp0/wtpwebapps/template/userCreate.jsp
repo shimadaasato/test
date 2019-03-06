@@ -88,7 +88,7 @@ table{
 		
 		</div>
 	
-	</div>
+
 	
 	<div>
 	
@@ -163,6 +163,8 @@ table{
 			<a href='<s:url action="HomeAction"/>'>こちら</a>	
 	
 		</div>
+	
+	</div>
 	
 	</div>
 	

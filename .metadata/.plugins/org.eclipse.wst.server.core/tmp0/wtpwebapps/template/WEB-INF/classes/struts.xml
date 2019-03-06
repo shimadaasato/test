@@ -44,18 +44,18 @@
 		</action>
 		
 	<!-- UserCreateCompleteAction -->
-<!-- 		<action name="UserCreateCompleteAction" class="com.internousdev.template.action.UserCreateCompleteAction" method="execute"> -->
+		<action name="UserCreateCompleteAction" class="com.internousdev.template.action.UserCreateCompleteAction" method="execute">
 		
-<!-- 		<result name="success">userCreateComplete.jsp</result> -->
+		<result name="success">userCreateComplete.jsp</result>
 		
-<!-- 		</action> -->
+		</action>
 	
 	<!-- BuyItemAction -->
-<!-- 		<action name="BuyItemAction" class="com.internousdev.template.action.BuyItemAction" method="execute"> -->
+		<action name="BuyItemAction" class="com.internousdev.template.action.BuyItemAction" method="execute">
 		
-<!-- 		<result name="success">buyItemConfirm.jsp</result> -->
+		<result name="success">buyItemConfirm.jsp</result>
 		
-<!-- 		</action> -->
+		</action>
 		
 	<!-- BuyItemConfirmAction -->
 <!-- 		<action name="BuyItemConfirmAction" class="com.internousdev.template.action.BuyItemConfirmAction" method="execute"> -->
