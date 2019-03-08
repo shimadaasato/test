@@ -89,14 +89,15 @@ table{
 		
 		<div>
 		
-			<s:form action="BuyitemConfirmAction">
+			<s:form action="BuyItemConfirmAction">
+			
 			<table>
 			
 				<tr>
 				
 					<td>商品名</td>
 					
-					<td><s:property value="session.buyitem_name"/></td>
+					<td><s:property value="session.buyItem_name"/></td>
 			
 				</tr>
 				
@@ -106,7 +107,7 @@ table{
 					
 					<td>
 						
-						<s:property value="session.buyitem_price"/>
+						<s:property value="session.buyItem_price"/>
 							
 							<span>円</span>
 				
