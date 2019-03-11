@@ -60,7 +60,7 @@
 	<!-- BuyItemConfirmAction -->
 		<action name="BuyItemConfirmAction" class="com.internousdev.template.action.BuyItemConfirmAction" method="execute">
 		
-		<result name="success">buyItemComplate.jsp</result>
+		<result name="success">buyItemComplete.jsp</result>
 		
 		</action>
 		

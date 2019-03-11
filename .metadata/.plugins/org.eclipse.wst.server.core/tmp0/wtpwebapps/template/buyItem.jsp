@@ -90,7 +90,7 @@ table{
 		
 		<div>
 		
-		<s:form action="buyItemAction">
+		<s:form action="BuyItemAction">
 		
 			<table>
 			
