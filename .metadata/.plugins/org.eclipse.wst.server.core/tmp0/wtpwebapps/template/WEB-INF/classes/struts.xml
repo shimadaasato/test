@@ -65,11 +65,11 @@
 		</action>
 		
 	<!-- MyPageAction -->
-<!-- 		<action name="MyPageAction" class="com.internousdev.template.action.MyPageAction" method="execute"> -->
+		<action name="MyPageAction" class="com.internousdev.template.action.MyPageAction" method="execute">
 		
-<!-- 		<result name="success">myPage.jsp</result> -->
+		<result name="success">myPage.jsp</result>
 		
-<!-- 		</action> -->
+		</action>
 		
 		</package>
 
