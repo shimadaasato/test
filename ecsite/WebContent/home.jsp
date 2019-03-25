@@ -57,6 +57,7 @@
 	text-align:center;
 	
 	}
+	
 	#footer{
 	width:100%;
 	height:80px;
@@ -102,6 +103,7 @@
 			<s:if test="#session.id !=null">
 				
 				<p>ログアウトする場合は
+						
 						<a href='<s:url action="LogoutAction"/>'>こちら</a></p>
 			
 			</s:if>
