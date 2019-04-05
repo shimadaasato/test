@@ -6,6 +6,8 @@ import java.util.Map;
 
 import org.apache.struts2.interceptor.SessionAware;
 
+import com.internousdev.ecsite.dao.MyPageDAO;
+import com.internousdev.ecsite.dto.MyPageDTO;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class MyPageAction extends ActionSupport implements SessionAware{
@@ -72,7 +74,7 @@ public class MyPageAction extends ActionSupport implements SessionAware{
 		this.session=session;
 		
 	}
-	public ArrayList<MypageDTO>getMyPageList(){
+	public ArrayList<MyPageDTO>getMyPageList(){
 		
 		return this.myPageList;
 		

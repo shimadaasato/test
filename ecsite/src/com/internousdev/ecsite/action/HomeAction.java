@@ -15,9 +15,9 @@ public class HomeAction extends ActionSupport implements SessionAware {
 	public String execute(){
 		
 		String result ="login";
-		
+		// sessionにidというキーの情報があるかチェック
 		if(session.containsKey("id")){
-			
+			//ある場合はbuyItem画面に出す情報をsessionにputする
 			BuyItemDAO buyItemDAO= new BuyItemDAO();
 			
 			BuyItemDTO buyItemDTO= buyItemDAO.getBuyItemInfo();
