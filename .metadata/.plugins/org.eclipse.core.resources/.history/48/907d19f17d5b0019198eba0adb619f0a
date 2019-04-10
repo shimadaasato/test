@@ -26,7 +26,6 @@ public class LoginDAO {
 			
 			ResultSet resultSet= preparedStatement.executeQuery();
 			
-			// 次の行があるかの確認
 			if(resultSet.next()){
 				
 				loginDTO.setLoginId(resultSet.getString("login_id"));
